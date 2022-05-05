@@ -1,0 +1,13 @@
+body {
+    margin: 80px 50px;
+}
+
+.title {
+    display: flex;
+
+    flex-direction: column;
+
+    font-size: 4rem;
+    
+    text-align: center;
+}
